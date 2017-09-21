@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 it adding the files to be changed in one commit
 
+** this line to add a commit
+
+
