@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 fork : clone the repository on the githup site
 clone : colne the repository to the local machine
 branch: to keep the original file or try new updates
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+can update the remote copy locally and push updates later
