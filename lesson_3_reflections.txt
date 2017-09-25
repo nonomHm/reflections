@@ -19,3 +19,7 @@ can update the remote copy locally and push updates later
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 sneding file to emails? or using google Docs? will not be easy but branching is powerful feature in git
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+testing new feature before publish it publicly. changing code in a branch will not affect the master means you can checkout back to master without fear to lose the original code, working with master is straight and less complicated
